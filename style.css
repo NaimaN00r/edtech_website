@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Noto+Sans:wght@300&family=Poppins:ital,wght@0,500;1,500&family=Shadows+Into+Light&family=Yellowtail&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* carousel caption data start */
+.carousel-caption h1{
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 85px;
+}
+/* carousel caption data end */
+/* course data start */
+.course-exlore-section{
+    background: #F4FAFD;
+}
+/* course data end */
+/* Explore Institute start */
+.institute h3{
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 60px;
+    color: #1D1D1D;
+}
+/* Explore Institute end */
+.register-btn{
+    background-color: #F4F4F4;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    color: #289BDE;
+}
+.ready{
+    background-color: #289BDE;
+}
