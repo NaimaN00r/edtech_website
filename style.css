@@ -3,26 +3,22 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-/* carousel caption data start */
 .carousel-caption h1{
     font-weight: 600;
     font-size: 60px;
     line-height: 85px;
 }
-/* carousel caption data end */
-/* course data start */
-.course-exlore-section{
+
+.course-exlore-section {
     background: #F4FAFD;
 }
-/* course data end */
-/* Explore Institute start */
 .institute h3{
     font-weight: 600;
     font-size: 45px;
     line-height: 60px;
     color: #1D1D1D;
 }
-/* Explore Institute end */
+
 .register-btn{
     background-color: #F4F4F4;
     padding: 10px 30px;
